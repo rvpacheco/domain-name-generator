@@ -1,6 +1,4 @@
-console.log("Hello World");
-
-let pronoun = ['the','our'];
+oun = ['the','our'];
 let adj = ['great', 'big' ];
 let noun = ['jogger','racoon'];
 let ext = ['.com', '.net', '.us', '.io', 'etc.']
