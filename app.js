@@ -1,4 +1,5 @@
-oun = ['the','our'];
+
+let pronoun = ['the','our'];
 let adj = ['great', 'big' ];
 let noun = ['jogger','racoon'];
 let ext = ['.com', '.net', '.us', '.io', 'etc.']
